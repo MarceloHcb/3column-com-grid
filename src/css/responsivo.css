@@ -1,9 +1,11 @@
 @media(max-width: 720px){
 
     .container{
-        width: 500px;
+        width: 400px;
         align-items: center;
         grid-template-columns:300px;
+        margin:50px;
+
     
 
 
