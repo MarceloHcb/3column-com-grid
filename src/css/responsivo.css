@@ -1,0 +1,30 @@
+@media(max-width: 720px){
+
+    .container{
+        width: 500px;
+        align-items: center;
+        grid-template-columns:300px;
+    
+
+
+     
+
+    }
+    .content-left{
+        
+        
+ 
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px;
+    }
+    .content-right{
+    
+       
+    
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 10px; 
+        border-bottom-left-radius: 10px;     
+       
+          
+}
